@@ -1,1 +1,10 @@
 /*  your css code here. If applicable */
+img{
+	height:150px;
+	width:200px;
+}
+.d{
+	display:flex;
+	flex-direction: column; 
+	gap: 10px;
+}
